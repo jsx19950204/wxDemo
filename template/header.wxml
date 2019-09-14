@@ -1,0 +1,4 @@
+<template name="header">
+  头部导航组件\n
+  来自{{from}}
+</template>
